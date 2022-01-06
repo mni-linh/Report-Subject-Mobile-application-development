@@ -1,3 +1,3 @@
 # Movies App
-Install: npm install
-Run: npm start
+* Install: npm install
+* Run: npm start
